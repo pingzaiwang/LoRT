@@ -38,7 +38,6 @@ Ensure the following are available or included in `libs/`:
 
 - All video data should be preprocessed into 3D tensors and stored in the `data/` directory.
 - Each script saves its results in `.mat` or `.png` format.
-- Results are designed to reproduce figures and tables from the LoRT appendix section.
 
 ## Citation
 
