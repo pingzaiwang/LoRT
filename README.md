@@ -7,7 +7,8 @@ This repository provides MATLAB demo scripts for evaluating the **Low-Rank Tenso
 > - Broader evaluation metrics (e.g., SSIM, LPIPS)  
 > - Extended algorithmic benchmarks  
 > - Support for distributed node computation  
-> - Deeper robustness and ablation studies
+> - Deeper robustness against negative transfer
+> - Extended to real applications with no ground truth parameters
 
 
 ## Folder Structure
