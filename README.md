@@ -2,8 +2,13 @@
 
 This repository provides MATLAB demo scripts for evaluating the **Low-Rank Tensor Transitions (LoRT)** framework under various experimental settings for visual tensor completion tasks. The experiments focus on analyzing the impact of the number of source tasks and sampling rates.
 
-> ⚠️ **This project is under continuous development.**  
-> Future updates will include implementations related to **distributed node computation** for decentralized tensor learning.
+> ⚠️ **Ongoing Improvements Planned**  
+> As the camera-ready timeline was constrained, several aspects are currently under development and will be added progressively, including:
+> - Broader evaluation metrics (e.g., SSIM, LPIPS)  
+> - Extended algorithmic benchmarks  
+> - Support for distributed node computation  
+> - Deeper robustness and ablation studies
+
 
 ## Folder Structure
 
