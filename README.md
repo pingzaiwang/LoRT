@@ -1,4 +1,4 @@
-# LoRT Tensor Completion Demo
+# Tensor Completion Demo for Low-Rank Tensor Transitions for Transferable Tensor Regression
 
 This repository provides MATLAB demo scripts for evaluating the **Low-Rank Tensor Transitions (LoRT)** framework under various experimental settings for visual tensor completion tasks. The experiments focus on analyzing the impact of the number of source tasks and sampling rates.
 
